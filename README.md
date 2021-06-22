@@ -6,5 +6,5 @@ Aprendendo os conceitos e melhores práticas com bancos de dados PostgreSQL, con
 
 
 
-![image](https://user-images.githubusercontent.com/67698405/122942522-a7230f00-d34c-11eb-9a06-7f221f0a3c97.png)
 
+![image](https://user-images.githubusercontent.com/67698405/122983157-12330c80-d372-11eb-8d18-1fd84e92e1fe.png)
